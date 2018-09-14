@@ -1,0 +1,19 @@
+{"type": "FeatureCollection", "features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [23.727, 37.971]}, "properties": {"Type": "Attraction", "Attraction": "Acropolis/ Parthenon"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [23.725, 37.971]}, "properties": {"Type": "Attraction", "Attraction": "Odeon of Herodes Atticus"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [23.728, 37.974]}, "properties": {"Type": "Venture", "Attraction": "Plaka"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [23.741, 37.968]}, "properties": {"Type": "Attraction", "Attraction": "Panathenaic Stadium"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [23.736, 37.986]}, "properties": {"Type": "Venture", "Attraction": "Exarchia neighbourhood"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [23.733, 37.969]}, "properties": {"Type": "Attraction", "Attraction": "TEMPLE OF OLYMPIAN ZEUS"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [23.728, 37.97]}, "properties": {"Type": "Attraction", "Attraction": "Theater of Dionysus"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [23.732, 37.97]}, "properties": {"Type": "Attraction", "Attraction": "Arch of Hadrian"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [23.725, 37.979]}, "properties": {"Type": "Venture", "Attraction": "Psiri\ufffdneighbourhood"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [23.726, 37.976]}, "properties": {"Type": "Attraction", "Attraction": "Monastiraki Market"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [23.729, 37.968]}, "properties": {"Type": "Attraction", "Attraction": "Acropolis Museum"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [23.723, 37.972]}, "properties": {"Type": "Attraction", "Attraction": "Areopagus Hill"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [23.721, 37.967]}, "properties": {"Type": "Attraction", "Attraction": "Philopappos Monument"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [23.729, 37.972]}, "properties": {"Type": "Attraction", "Attraction": "AGIOS NIKOLAOS RAGAVAS CHURCH"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [23.725, 37.97]}, "properties": {"Type": "Venture", "Attraction": "ANAFIOTIKA"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [23.73, 37.972]}, "properties": {"Type": "Bar", "Attraction": "BRETTOS"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [23.725, 37.971]}, "properties": {"Type": "Attraction", "Attraction": "Herodus Atticus theatre"}}
+]}

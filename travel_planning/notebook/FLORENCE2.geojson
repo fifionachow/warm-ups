@@ -1,0 +1,26 @@
+{"type": "FeatureCollection", "features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.256, 43.773]}, "properties": {"index": 0, "name": "Cathedral of Santa Maria del Fiore", "cluster": "0"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.256, 43.772]}, "properties": {"index": 1, "name": "Chiaroscuro", "cluster": "0"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.251, 43.77]}, "properties": {"index": 2, "name": "Holy Trinity", "cluster": "0"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.253, 43.777]}, "properties": {"index": 3, "name": "Mercato di San Lorenzo", "cluster": "0"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.256, 43.763]}, "properties": {"index": 4, "name": "Villa Bardini", "cluster": "1"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.255, 43.768]}, "properties": {"index": 5, "name": "Uffizi Gallery", "cluster": "0"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.255, 43.771]}, "properties": {"index": 6, "name": "Perch no!...", "cluster": "0"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.256, 43.773]}, "properties": {"index": 7, "name": "Giotto's Bell Tower", "cluster": "0"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.253, 43.768]}, "properties": {"index": 8, "name": "Ponte Vecchio", "cluster": "0"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.254, 43.768]}, "properties": {"index": 9, "name": "Corridoio Vasariano", "cluster": "0"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.251, 43.767]}, "properties": {"index": 10, "name": "Gelateria Della Passera", "cluster": "1"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.255, 43.773]}, "properties": {"index": 11, "name": "Piazza del Duomo", "cluster": "0"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.249, 43.775]}, "properties": {"index": 12, "name": "Basilica of Santa Maria Novella", "cluster": "0"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.263, 43.763]}, "properties": {"index": 13, "name": "Giardino delle rose", "cluster": "noise"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.254, 43.77]}, "properties": {"index": 14, "name": "Mercato del Porcellino", "cluster": "0"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.255, 43.773]}, "properties": {"index": 15, "name": "The Gates of Paradise", "cluster": "0"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.256, 43.77]}, "properties": {"index": 16, "name": "Piazza della Signoria", "cluster": "0"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.248, 43.762]}, "properties": {"index": 17, "name": "Boboli Garden", "cluster": "noise"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.265, 43.763]}, "properties": {"index": 18, "name": "Piazzale Michelangelo", "cluster": "noise"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.255, 43.773]}, "properties": {"index": 19, "name": "Baptistery of San Giovanni", "cluster": "0"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.256, 43.769]}, "properties": {"index": 20, "name": "Palazzo Vecchio Museum", "cluster": "0"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.252, 43.777]}, "properties": {"index": 21, "name": "Le Fonticine", "cluster": "0"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.259, 43.777]}, "properties": {"index": 22, "name": "Academy Gallery", "cluster": "0"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.265, 43.772]}, "properties": {"index": 23, "name": "Gelateria il Procopio", "cluster": "0"}}
+]}
